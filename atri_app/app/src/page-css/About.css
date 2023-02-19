@@ -1,0 +1,899 @@
+.p-About.Flex34 {
+display: flex;
+margin-top: 20px;
+height: 60px;
+position: relative;
+width: 1500px;
+}
+.p-About.Flex35 {
+display: flex;
+position: relative;
+top: 300px;
+width: 1100px;
+height: 450px;
+background-color: #FF7629;
+}
+.p-About.Div61 {
+height: 167.2px;
+width: 60000000000px;
+position: relative;
+left: 300px;
+top: 400px;
+background-color: #ffffff;
+border-radius: 20px;
+border-style: solid;
+border-width: 2px;
+border-color: #8f8686;
+}
+.p-About.Flex38 {
+display: flex;
+position: relative;
+top: 420px;
+width: 1500px;
+height: 1200px;
+background-color: #FFF9F3;
+flex-direction: column;
+}
+.p-About.Flex41 {
+display: flex;
+position: relative;
+top: 250px;
+height: 630px;
+background-color: #FFF9F3;
+flex-direction: column;
+}
+.p-About.TextBox113 {
+font-size: 40px;
+width: 450px;
+position: relative;
+left: 250px;
+top: 150px;
+}
+.p-About.TextBox114 {
+width: 500px;
+position: relative;
+top: 150px;
+left: 250px;
+color: #545353;
+}
+.p-About.Image105 {
+;
+}
+.p-About.Image106 {
+;
+}
+.p-About.TextBox126 {
+;
+}
+.p-About.TextBox128 {
+;
+}
+.p-About.TextBox129 {
+position: relative;
+top: 520px;
+}
+.p-About.TextBox130 {
+;
+}
+.p-About.TextBox132 {
+width: 500px;
+position: relative;
+top: 590px;
+align-self: center;
+left: 400px;
+color: #545353;
+}
+.p-About.Image107 {
+width: 300px;
+height: 309.23px;
+position: relative;
+top: 620px;
+left: 250px;
+border-radius: 38px;
+}
+.p-About.Image108 {
+width: 300px;
+height: 309.23px;
+position: relative;
+top: 620px;
+left: 230px;
+border-radius: 38px;
+}
+.p-About.Image112 {
+width: 300px;
+height: 309.23px;
+position: relative;
+top: 620px;
+border-radius: 38px;
+left: 200px;
+}
+.p-About.TextBox133 {
+width: 120px;
+font-size: 20px;
+position: relative;
+top: 620px;
+left: 300px;
+}
+.p-About.TextBox135 {
+width: 120px;
+font-size: 20px;
+position: relative;
+top: 600px;
+left: 620px;
+}
+.p-About.TextBox136 {
+width: 200px;
+}
+.p-About.TextBox137 {
+width: 120px;
+font-size: 20px;
+position: relative;
+top: 560px;
+left: 940px;
+}
+.p-About.TextBox138 {
+width: 180px;
+color: #FF7629;
+position: relative;
+top: 570px;
+left: 600px;
+}
+.p-About.TextBox139 {
+width: 180px;
+color: #FF7629;
+position: relative;
+top: 550px;
+left: 250px;
+}
+.p-About.TextBox140 {
+width: 100px;
+color: #FF7629;
+position: relative;
+top: 615px;
+left: 950px;
+}
+.p-About.TextBox141 {
+top: 560px;
+position: relative;
+width: 250px;
+left: 230px;
+color: #545353;
+}
+.p-About.TextBox142 {
+position: relative;
+top: 505px;
+width: 250px;
+left: 570px;
+color: #545353;
+}
+.p-About.TextBox143 {
+position: relative;
+top: 450px;
+width: 250px;
+left: 890px;
+color: #545353;
+}
+.p-About.Image122 {
+width: 120px;
+height: 120px;
+position: relative;
+top: 600px;
+left: 300px;
+}
+.p-About.Image123 {
+width: 120px;
+height: 120px;
+position: relative;
+top: 600px;
+left: 530px;
+}
+.p-About.Image124 {
+width: 120px;
+height: 120px;
+position: relative;
+top: 600px;
+left: 750px;
+}
+.p-About.TextBox144 {
+position: relative;
+top: 400px;
+width: 700px;
+font-size: 40px;
+align-self: center;
+left: 400px;
+}
+.p-About.TextBox145 {
+position: relative;
+top: 590px;
+width: 240px;
+left: 250px;
+text-align: center;
+color: #545353;
+}
+.p-About.TextBox149 {
+position: relative;
+top: 535px;
+width: 240px;
+text-align: center;
+left: 600px;
+color: #545353;
+}
+.p-About.TextBox150 {
+width: 240px;
+position: relative;
+top: 430px;
+text-align: center;
+left: 925px;
+color: #545353;
+}
+.p-About.TextBox151 {
+font-size: 20px;
+width: 150px;
+position: relative;
+top: 920px;
+left: 290px;
+}
+.p-About.TextBox153 {
+width: 80px;
+font-size: 20px;
+position: relative;
+top: 450px;
+left: 680px;
+}
+.p-About.TextBox156 {
+width: 120px;
+font-size: 20px;
+position: relative;
+top: 425px;
+left: 1000px;
+}
+.p-About.Image125 {
+width: 120px;
+height: 120px;
+position: relative;
+top: 460px;
+left: 650px;
+}
+.p-About.Image126 {
+width: 120px;
+height: 120px;
+position: relative;
+left: 180px;
+top: 460px;
+}
+.p-About.Image127 {
+width: 120px;
+height: 120px;
+position: relative;
+top: 200px;
+left: 1000px;
+}
+.p-About.TextBox157 {
+font-size: 20px;
+position: relative;
+top: 150px;
+left: 300px;
+width: 120px;
+}
+.p-About.TextBox158 {
+top: 235px;
+position: relative;
+text-align: center;
+width: 240px;
+left: 250px;
+color: #545353;
+}
+.p-About.TextBox160 {
+width: 100px;
+font-size: 20px;
+position: relative;
+top: 610px;
+left: 665px;
+}
+.p-About.TextBox161 {
+position: relative;
+top: 495px;
+text-align: center;
+width: 240px;
+left: 600px;
+color: #545353;
+}
+.p-About.TextBox162 {
+width: 60px;
+font-size: 20px;
+top: 410px;
+position: relative;
+left: 1030px;
+}
+.p-About.TextBox163 {
+position: relative;
+top: 420px;
+left: 940px;
+text-align: center;
+width: 240px;
+color: #545353;
+}
+.p-About.Image139 {
+width: 244px;
+height: 33px;
+position: relative;
+top: 350px;
+left: 150px;
+}
+.p-About.TextBox166 {
+width: 50px;
+position: relative;
+top: 230px;
+left: 700px;
+color: #545353;
+}
+.p-About.TextBox167 {
+width: 400px;
+position: relative;
+top: 20px;
+left: 150px;
+color: #545353;
+}
+.p-About.Image140 {
+width: 30px;
+height: 30px;
+position: relative;
+top: 30px;
+left: 150px;
+}
+.p-About.Image143 {
+width: 30px;
+height: 30px;
+top: 472px;
+position: relative;
+right: 64px;
+}
+.p-About.Image144 {
+width: 30px;
+height: 30px;
+position: relative;
+left: 270px;
+top: 120px;
+}
+.p-About.Image145 {
+width: 30px;
+height: 30px;
+position: relative;
+top: 394px;
+right: 5px;
+left: 240px;
+}
+.p-About.TextBox168 {
+width: 50px;
+left: 700px;
+position: relative;
+font-size: 20px;
+bottom: 100px;
+}
+.p-About.TextBox169 {
+;
+}
+.p-About.TextBox171 {
+width: 50px;
+position: relative;
+left: 700px;
+bottom: 80px;
+color: #545353;
+}
+.p-About.TextBox172 {
+;
+}
+.p-About.TextBox173 {
+width: 50px;
+position: relative;
+top: 200px;
+left: 700px;
+color: #545353;
+}
+.p-About.TextBox174 {
+;
+}
+.p-About.TextBox175 {
+position: relative;
+top: 300px;
+width: 80px;
+left: 700px;
+color: #545353;
+}
+.p-About.TextBox176 {
+width: 50px;
+position: relative;
+left: 700px;
+top: 200px;
+color: #545353;
+}
+.p-About.TextBox177 {
+width: 50px;
+position: relative;
+top: 330px;
+left: 700px;
+color: #545353;
+}
+.p-About.TextBox178 {
+;
+}
+.p-About.TextBox179 {
+width: 50px;
+position: relative;
+top: 180px;
+left: 700px;
+color: #545353;
+}
+.p-About.TextBox180 {
+width: 50px;
+font-size: 20px;
+position: relative;
+left: 800px;
+top: 45px;
+}
+.p-About.TextBox181 {
+;
+}
+.p-About.TextBox182 {
+width: 60px;
+left: 800px;
+position: relative;
+top: 270px;
+color: #545353;
+}
+.p-About.TextBox183 {
+width: 50px;
+position: relative;
+left: 800px;
+top: 435px;
+color: #545353;
+}
+.p-About.TextBox184 {
+width: 40px;
+position: relative;
+left: 800px;
+bottom: 50px;
+color: #545353;
+}
+.p-About.TextBox185 {
+width: 40px;
+position: relative;
+left: 800px;
+bottom: 190px;
+color: #545353;
+}
+.p-About.TextBox186 {
+width: 80px;
+left: 800px;
+position: relative;
+bottom: 185px;
+color: #545353;
+}
+.p-About.TextBox187 {
+position: relative;
+left: 800px;
+width: 50px;
+bottom: 180px;
+color: #545353;
+}
+.p-About.TextBox188 {
+width: 50px;
+left: 800px;
+position: relative;
+bottom: 196px;
+color: #545353;
+}
+.p-About.TextBox189 {
+width: 200px;
+bottom: 365px;
+position: relative;
+left: 1000px;
+font-size: 20px;
+}
+.p-About.Image146 {
+width: 145px;
+height: 145px;
+border-radius: 20px;
+left: 850px;
+position: relative;
+bottom: 360px;
+}
+.p-About.Image147 {
+width: 145px;
+height: 145px;
+border-radius: 20px;
+left: 860px;
+position: relative;
+bottom: 360px;
+}
+.p-About.Image148 {
+width: 145px;
+height: 145px;
+position: relative;
+border-radius: 20px;
+left: 995px;
+bottom: 205px;
+}
+.p-About.Image149 {
+width: 145px;
+height: 145px;
+border-radius: 20px;
+left: 1120px;
+position: relative;
+top: 40px;
+}
+.p-About.Image150 {
+width: 30px;
+height: 30px;
+position: relative;
+left: 210px;
+bottom: 178px;
+}
+.p-About.Image92 {
+width: 244px;
+height: 33px;
+margin-top: 15px;
+padding-left: ;
+margin-left: 150px;
+}
+.p-About.Link24 {
+margin-top: 20px;
+position: relative;
+left: 30px;
+color: #545353;
+font-size: 20px;
+}
+.p-About.Link25 {
+margin-top: 20px;
+margin-left: ;
+position: relative;
+left: 120px;
+color: #545353;
+font-size: 20px;
+}
+.p-About.Link27 {
+margin-top: 20px;
+position: relative;
+left: 60px;
+color: #545353;
+font-size: 20px;
+}
+.p-About.Link28 {
+margin-top: 20px;
+position: relative;
+left: 150px;
+color: #545353;
+font-size: 20px;
+}
+.p-About.Link29 {
+margin-top: 20px;
+position: relative;
+left: 90px;
+background-color: ;
+color: #545353;
+font-size: 20px;
+}
+.p-About.Button22 {
+color: ;
+background-color: #ffffffff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 20px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #b0a8a8;
+cursor: pointer;
+user-select: none;
+height: 35px;
+outline-style: none;
+outline-color: ;
+margin-top: 16px;
+margin-left: 2px;
+position: relative;
+left: 480px;
+}
+.p-About.Button23 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 20px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: ;
+cursor: pointer;
+user-select: none;
+height: 35px;
+margin-top: 15px;
+margin-left: ;
+position: relative;
+left: 500px;
+}
+.p-About.Image95 {
+position: relative;
+width: 400px;
+height: 486.36px;
+bottom: 400px;
+border-radius: 50px;
+right: 700px;
+}
+.p-About.Image102 {
+position: relative;
+right: 900px;
+width: 600px;
+height: 395.09px;
+border-radius: 50px;
+bottom: 70px;
+}
+.p-About.Image96 {
+width: 215px;
+height: 30px;
+position: relative;
+top: 30px;
+right: 30px;
+}
+.p-About.Image98 {
+width: 215px;
+height: 40px;
+position: relative;
+left: 380px;
+top: 40px;
+}
+.p-About.Image99 {
+width: 215px;
+height: 30px;
+position: relative;
+left: 150px;
+top: 30px;
+}
+.p-About.Image101 {
+width: 215px;
+height: 62.4px;
+position: relative;
+top: 50px;
+left: 150px;
+}
+.p-About.TextBox115 {
+border-style: none;
+border-width: ;
+border-color: ;
+width: 110px;
+left: 50px;
+position: relative;
+}
+.p-About.Image103 {
+width: 530px;
+height: 511.31px;
+border-radius: 38px;
+position: relative;
+left: 230px;
+top: 70px;
+}
+.p-About.TextBox116 {
+font-size: 30px;
+width: 300px;
+position: relative;
+left: 800px;
+bottom: 1050px;
+}
+.p-About.TextBox117 {
+width: 500px;
+left: 800px;
+position: relative;
+bottom: 950px;
+color: #545353;
+}
+.p-About.TextBox118 {
+width: 500px;
+left: 800px;
+position: relative;
+bottom: 970px;
+color: #545353;
+}
+.p-About.Button24 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 20px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: ;
+cursor: pointer;
+user-select: none;
+width: 120px;
+height: 80px;
+position: relative;
+left: 800px;
+bottom: 940px;
+}
+.p-About.Image104 {
+position: relative;
+width: 530px;
+height: 511.31px;
+border-radius: 38px;
+left: 800px;
+bottom: 150px;
+}
+.p-About.TextBox119 {
+width: 400px;
+top: 200px;
+position: relative;
+font-size: 30px;
+left: 80px;
+}
+.p-About.TextBox120 {
+width: 500px;
+position: relative;
+top: 220px;
+left: 80px;
+color: #545353;
+}
+.p-About.TextBox121 {
+width: 500px;
+position: relative;
+left: 80px;
+top: 230px;
+color: #545353;
+}
+.p-About.Button25 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 20px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: ;
+border-style: none;
+border-color: ;
+cursor: pointer;
+user-select: none;
+width: 120px;
+height: 80px;
+position: relative;
+left: 80px;
+top: 250px;
+}
+.p-About.Flex40 {
+display: flex;
+height: 1000000000px;
+position: relative;
+bottom: 50px;
+}
+.p-About.TextBox131 {
+width: 400px;
+font-size: 40px;
+position: relative;
+top: 720px;
+align-self: center;
+}
+.p-About.Image128 {
+width: 300px;
+height: 300px;
+border-radius: 38px;
+position: relative;
+top: 150px;
+right: 350px;
+}
+.p-About.Image129 {
+width: 300px;
+height: 300px;
+border-radius: 38px;
+position: relative;
+top: 150px;
+right: 315px;
+}
+.p-About.Image130 {
+width: 145px;
+height: 145px;
+position: relative;
+left: 920px;
+border-radius: 20px;
+bottom: 780px;
+}
+.p-About.Image131 {
+width: 145px;
+height: 145px;
+left: 920px;
+position: relative;
+border-radius: 20px;
+bottom: 770px;
+}
+.p-About.Image132 {
+width: 145px;
+height: 145px;
+position: relative;
+left: 1075px;
+top: 185px;
+border-radius: 20px;
+}
+.p-About.Image133 {
+width: 145px;
+height: 145px;
+position: relative;
+left: 4600px;
+}
+.p-About.Image136 {
+width: 145px;
+height: 145px;
+border-radius: 20px;
+position: relative;
+left: 1075px;
+top: 210px;
+}
+.p-About.TextBox164 {
+width: 300px;
+font-size: 30px;
+position: relative;
+left: 100px;
+top: 10px;
+}
+.p-About.Image137 {
+width: 300px;
+height: 300px;
+border-radius: 38px;
+position: relative;
+left: 250px;
+bottom: 120px;
+}
+.p-About.Image138 {
+width: 300px;
+height: 300px;
+border-radius: 38px;
+left: 585px;
+position: relative;
+bottom: 485px;
+}
+.p-About.Button27 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 20px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: none;
+border-color: ;
+cursor: pointer;
+user-select: none;
+width: 100px;
+height: 100px;
+position: relative;
+left: 1250px;
+bottom: 450px;
+}
+.p-About.Image141 {
+width: 30px;
+height: 30px;
+position: relative;
+left: 180px;
+top: 223px;
+}
